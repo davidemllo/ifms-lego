@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+#cabecalho {
+    display: flex;
+    background-color: green;
+    padding: 1vh;
+    justify-content: space-between;
+}
+
+.logotipo {
+    width: 100px;
+    height: auto;
+}
+
+#cabecalho-geral {
+    display: flex;
+    background-color: green;
+    padding: 2vh;
+    justify-content: space-between;
+}
+
+.logotipo-img {
+    width: 80px;
+    height: auto;
+}
+
+#procurar {
+    font-size: 2.3vh;
+    border-radius: 1vh;
+    border-style: none;
+}
+
+.anuncio {
+    display: flex;
+    justify-content: center;
+    padding: 3vh;
+}
+
+.nav-anuncio {
+    display: flex;
+    justify-content: center;
+    padding: 3vh;
+}
+
+.principal {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+figcaption {
+    font-size: 4vh;
+    padding-top: 8vh;
+}
+
+figcaption {
+    font-size: 4vh;
+    padding-top: 8vh;
+}
+
+.direita {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-servidor {
+    width: 500px;
+    height: auto;
+}
+
+.rodape {
+    background-color: green;
+    padding: 10vh;
+}
